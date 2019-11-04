@@ -1,0 +1,9 @@
+.cache
+.eslintignore
+.eslintrc.json
+.git
+.github
+.gitignore
+.snyk
+modules/MMM-DisneyWaitTimes/node_modules
+node_modules
